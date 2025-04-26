@@ -1,0 +1,10 @@
+langgraph 
+langsmith
+langchain
+langchain_groq
+langchain_community
+ipykernel
+arxiv
+tiktoken
+chromadb
+langchain_huggingface
