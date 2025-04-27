@@ -49,6 +49,10 @@ conda create -n langgraph_chatbot_env python=3.11 -y
 conda activate langgraph_chatbot_env
 ```
 ---
+### ✅ Step 2: Install requirements
+
+**Functionality**:  
+Install libraries.
 
 ```bash
 pip install -r requirements.txt
